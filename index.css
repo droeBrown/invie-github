@@ -1,0 +1,14 @@
+body {
+    margin: o;
+    background-color: blue;
+}
+
+img {
+    max-width: 50%;
+    margin: 0px auto;
+    position: relative;
+}
+
+.container {
+    background-color: burlywood;
+}
